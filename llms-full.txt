@@ -1,0 +1,47 @@
+# Geotechnicalengineering — Medicine Hat
+
+> Geotechnical engineering services in Medicine Hat, Canada.
+
+## Services
+- [Atterberg Limits](https://medicine-hat.geotechnicalengineering.vip/atterberg-limits/)
+- [Deep Excavations](https://medicine-hat.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://medicine-hat.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://medicine-hat.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://medicine-hat.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://medicine-hat.geotechnicalengineering.vip/footings/)
+- [Foundations](https://medicine-hat.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://medicine-hat.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://medicine-hat.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://medicine-hat.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://medicine-hat.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://medicine-hat.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://medicine-hat.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://medicine-hat.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://medicine-hat.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://medicine-hat.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://medicine-hat.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://medicine-hat.geotechnicalengineering.vip/mat-foundations/)
+- [Plate Load Test](https://medicine-hat.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://medicine-hat.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://medicine-hat.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://medicine-hat.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://medicine-hat.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://medicine-hat.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://medicine-hat.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://medicine-hat.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://medicine-hat.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://medicine-hat.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://medicine-hat.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://medicine-hat.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://medicine-hat.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://medicine-hat.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://medicine-hat.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://medicine-hat.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://medicine-hat.geotechnicalengineering.vip/triaxial/)
+
+## Contact
+- Website: https://medicine-hat.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Medicine Hat, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
